@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YoussefKadafy
 - 👀 I’m interested in android apps development with Flutter
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m junior Flutter 
 - 📫 How to reach me by my Gmail kadafyyoussef@gmail.com Or on my facebook https://www.facebook.com/youssefKadafy
 - ⚡ Fun fact: I will be there one day.
 
